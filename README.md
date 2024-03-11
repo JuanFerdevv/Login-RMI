@@ -1,4 +1,4 @@
-<h1 align="center"> Login with RMI💻</h1>
+<h1 align="center"> Login with RMI</h1>
 
 <h2> Proyecto elaborado en el Septimo semestre de Ingenieria en la clase de Aplicaciones Distribuidas</h2>
 
@@ -7,4 +7,9 @@
 
 El proceso de autenticación típicamente implica que un cliente envíe credenciales (como un nombre de usuario y una contraseña) al servidor RMI. El servidor RMI verifica estas credenciales y, si son válidas, permite al cliente acceder a los recursos o realizar las operaciones solicitadas. Este proceso ayuda a garantizar la seguridad y la privacidad en las comunicaciones distribuidas, asegurando que solo los usuarios autorizados puedan acceder a los servicios remotos ofrecidos por la aplicación.
 
+</p>
+#  configuracion del proyecto y ejecucion 
+<p>
+  - Iniciar el LoginServer
+  - Despues de inicar el LoginServer, iniciar el Clinent
 </p>
